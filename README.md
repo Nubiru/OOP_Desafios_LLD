@@ -11,7 +11,7 @@ Cada desafío vive en su propia carpeta autocontenida (proyecto npm + tests).
 |---|---------|----------------|--------|
 | 1 | [Gilded Rose](./1-gilded-rose) — refactorización de código legado (OCP) | **Strategy** + **Factory** | ✅ Completo |
 | 2 | [Vending Machine](./2-vending-machine) — máquina de estados y concurrencia | **State** + **Singleton** (+ Strategy) | ✅ Completo |
-| 3 | Parking Lot — asignación de recursos espaciales | Facade + Strategy + Abstract Factory | ⏳ Pendiente |
+| 3 | [Parking Lot](./3-parking-lot) — asignación de recursos espaciales | **Facade** + **Strategy** + **Abstract Factory** | ✅ Completo |
 | 4 | Cab Booking (Uber) — sistemas distribuidos en tiempo real | Observer + Strategy + State | ⏳ Pendiente |
 | 5 | AI Agent Orchestration — orquestación de agentes IA | Command + State + Chain of Responsibility | ⏳ Pendiente |
 

@@ -1,0 +1,19 @@
+{
+  "name": "parking-lot",
+  "version": "1.0.0",
+  "description": "Desafío 3 (LLD): sistema de estacionamiento con Facade + Strategy + Abstract Factory, asignación Best-Fit O(1) y bloqueo pesimista",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": ["parking-lot", "facade", "strategy", "abstract-factory", "solid", "lld"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
