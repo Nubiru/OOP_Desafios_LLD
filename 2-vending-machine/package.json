@@ -1,0 +1,19 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "description": "Desafío 2 (LLD): máquina expendedora con State + Singleton + Strategy, transacciones atómicas y control de concurrencia",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": ["vending-machine", "state", "singleton", "strategy", "solid", "lld"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
