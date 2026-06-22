@@ -1,0 +1,19 @@
+{
+  "name": "cab-booking",
+  "version": "1.0.0",
+  "description": "Desafío 4 (LLD): plataforma de reserva de viajes con Observer + Strategy + State y matchmaking geoespacial",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": ["cab-booking", "observer", "strategy", "state", "geospatial", "solid", "lld"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
