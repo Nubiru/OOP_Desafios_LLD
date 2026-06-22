@@ -1,0 +1,26 @@
+{
+  "name": "gilded-rose",
+  "version": "1.0.0",
+  "description": "Desafío 1 (LLD): refactorización del kata Gilded Rose con Strategy + Factory y Golden Master Testing",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "test": "tsx --test tests/*.test.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "gilded-rose",
+    "strategy",
+    "factory",
+    "solid",
+    "lld",
+    "kata"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.20.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
