@@ -13,7 +13,7 @@ Cada desafío vive en su propia carpeta autocontenida (proyecto npm + tests).
 | 2 | [Vending Machine](./2-vending-machine) — máquina de estados y concurrencia | **State** + **Singleton** (+ Strategy) | ✅ Completo |
 | 3 | [Parking Lot](./3-parking-lot) — asignación de recursos espaciales | **Facade** + **Strategy** + **Abstract Factory** | ✅ Completo |
 | 4 | [Cab Booking](./4-cab-booking) (Uber) — sistemas distribuidos en tiempo real | **Observer** + **Strategy** + **State** | ✅ Completo |
-| 5 | AI Agent Orchestration — orquestación de agentes IA | Command + State + Chain of Responsibility | ⏳ Pendiente |
+| 5 | [AI Agent Orchestration](./5-ai-orchestration) — orquestación de agentes IA | **Command** + **State** + **Chain of Responsibility** | ✅ Completo |
 
 ## Cómo ejecutar un desafío
 
